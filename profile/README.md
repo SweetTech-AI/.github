@@ -17,6 +17,7 @@ Our product work spans:
 | Product | Focus |
 | --- | --- |
 | **SweetCore** | Commercial lending and servicing workflows connecting borrowers and operational teams. |
+| **Sweet Servicing** | Loan servicing and ongoing borrower workflows. |
 | **SweetSign** | Electronic signatures and agreement workflows, from document preparation through signing and completion records. |
 | **Sweet Credit** | Digital lending experiences for borrowers and lender teams. |
 | **Sweet Ag Loans** | Lending experiences built around agricultural borrowers and their financing needs. |
@@ -32,4 +33,4 @@ For product information, availability and demonstrations, visit [sweettech.ai](h
 
 Learn about our work, meet the people building it, or explore opportunities to join the team:
 
-[Company website](https://sweettech.ai/) · [Our team](https://sweettech.ai/company/team/) · [Careers](https://sweettech.ai/company/careers/)
+[Company website](https://sweettech.ai/) · [Our team](https://sweettech.ai/company/team/) · [Careers](https://sweettech.ai/careers/)
