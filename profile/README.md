@@ -75,7 +75,7 @@ That work extends beyond our commercial products into open source.
 - **Test in CI:** give integration tests an isolated environment.
 - **Know the boundaries:** inspect compatibility and evidence for individual operations.
 
-[Explore CloudBurrow →](https://cloudburrow.com/)
+[Explore CloudBurrow →](https://cloudburrow.com/) · [Join the community →](https://github.com/orgs/cloudburrow/discussions)
 
 ## Build something that matters.
 
