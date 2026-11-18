@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-label="SweetTech — connected experiences for the entire lending journey"><title>SweetTech — connected experiences for the entire lending journey</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0e1537"/><stop offset="1" stop-color="#172049"/></linearGradient></defs><rect width="1200" height="500" rx="24" fill="url(#bg)"/><circle cx="720" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="720" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="720" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="720" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="720" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="720" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="720" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="720" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="720" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="720" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="720" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="720" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="720" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="720" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="720" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="752" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="784" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="816" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="848" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="880" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="912" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="944" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="976" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1008" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1040" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1072" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1104" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1136" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="30" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="62" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="94" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="126" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="158" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="190" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="222" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="254" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="286" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="318" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="350" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="382" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="414" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="446" r="1.2" fill="#a8c4fa" opacity=".18"/><circle cx="1168" cy="478" r="1.2" fill="#a8c4fa" opacity=".18"/><ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="210" height="74" viewBox="0 0 812 283" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" x="48" y="28">
+    <ns0:g transform="matrix(1,0,0,1,-1481.341075,-14158.406665)">
+        <ns0:g transform="matrix(1,0,0,1,0,-0.751732)">
+            <ns0:g id="sweet_tech_negative_004" transform="matrix(1,0,0,1,1024.212018,573.500887)">
+                <ns0:g id="sweet_commercial" transform="matrix(1.415866,0,0,1.415866,-15672.548082,3645.604852)">
+                    <ns0:g transform="matrix(0.326873,0,0,0.326873,8106.121436,4753.894496)">
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="435.5" cy="44.85" r="5.06" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="570.52" cy="54" r="6.61" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="307.38" cy="81.94" r="1.87" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="697.12" cy="112.02" r="8.76" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="407.31" cy="152.81" r="9.18" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="511.42" cy="162.32" r="12.05" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="193.31" cy="155.88" r="2.5" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="308.14" cy="179.08" r="6.61" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="607.76" cy="206.64" r="13.44" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="799.26" cy="207.83" r="10.79" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="222.13" cy="236.69" r="5.54" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="392.45" cy="253.81" r="12.76" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="466.55" cy="263.06" r="13.57" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="107.28" cy="261.65" r="1.93" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="317.83" cy="270.14" r="10.33" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="684.37" cy="280.53" r="14.66" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="532.81" cy="296.54" r="14.64" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="251.37" cy="307.75" r="9.04" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="864.68" cy="319.55" r="11.82" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="155.97" cy="317.51" r="4.92" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="583.43" cy="344.95" r="15.49" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="733.58" cy="366.27" r="15.51" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="201.87" cy="360.31" r="8.32" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="54.85" cy="388.35" r="1.67" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="619.16" cy="407.16" r="15.27" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="116.24" cy="410.85" r="4.52" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="169.68" cy="429.92" r="7.74" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="897.63" cy="443.13" r="12.33" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="758.13" cy="460.01" r="16.27" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="638.24" cy="474.77" r="15.69" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="155.9" cy="507.12" r="7.23" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="101.4" cy="507.27" r="3.89" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="40.29" cy="507.77" r="1.67" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="638.51" cy="543.02" r="15.61" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="759.33" cy="555.28" r="15.91" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="897.9" cy="569.18" r="12.77" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="165.97" cy="582.79" r="7.76" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="621.14" cy="608" r="15.51" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="114.45" cy="606.55" r="4.03" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="736.46" cy="647.45" r="15.41" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="198.05" cy="653.54" r="6.97" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="586.16" cy="669.7" r="14.65" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="866.91" cy="693.34" r="11.99" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="154.31" cy="692.98" r="3.48" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="249.4" cy="707.39" r="7.59" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="536.12" cy="716.15" r="13.94" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="685.82" cy="733.5" r="13.91" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="315.53" cy="743.17" r="8.58" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="467.45" cy="750.27" r="12.41" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="107.28" cy="747.3" r="1.8" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="391.9" cy="759.13" r="10.34" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="222.63" cy="775.48" r="4.89" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="608.61" cy="802.12" r="12.37" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="799.87" cy="806.41" r="9.7" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="306.42" cy="829.61" r="6.41" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="512.83" cy="846.51" r="9.53" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="406.73" cy="854.5" r="8.34" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="695.82" cy="899.06" r="8.27" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="569.7" cy="950.93" r="5.8" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="435.27" cy="957.64" r="3.89" style="fill:white;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(0.662425,0,0,0.662425,11202.273825,6907.765455)">
+                            <ns0:circle cx="380.75" cy="508.68" r="82.96" style="fill:rgb(61,125,242);" />
+                        </ns0:g>
+                    </ns0:g>
+                </ns0:g>
+                <ns0:g transform="matrix(1,0,0,1,-1410.685944,10163.020827)">
+                    <ns0:g transform="matrix(1,0,0,1,-9219.60669,199.063264)">
+                        <ns0:g transform="matrix(175,0,0,175,11075.094306,3372.589947)">
+                            <ns0:path d="M0.421,-0.143C0.421,-0.135 0.419,-0.127 0.415,-0.12C0.411,-0.113 0.406,-0.106 0.399,-0.101C0.389,-0.094 0.377,-0.088 0.362,-0.084C0.347,-0.079 0.329,-0.077 0.309,-0.077C0.294,-0.077 0.279,-0.079 0.265,-0.082C0.25,-0.085 0.237,-0.09 0.225,-0.097C0.214,-0.104 0.204,-0.113 0.196,-0.124C0.189,-0.136 0.185,-0.149 0.183,-0.165L0.07,-0.165C0.07,-0.144 0.076,-0.122 0.086,-0.101C0.097,-0.08 0.112,-0.061 0.132,-0.045C0.152,-0.028 0.177,-0.015 0.206,-0.005C0.235,0.005 0.269,0.01 0.307,0.01C0.341,0.01 0.372,0.006 0.4,-0.002C0.428,-0.009 0.453,-0.02 0.473,-0.034C0.492,-0.048 0.508,-0.065 0.519,-0.085C0.53,-0.104 0.535,-0.126 0.535,-0.149C0.535,-0.173 0.53,-0.194 0.52,-0.211C0.509,-0.229 0.494,-0.244 0.476,-0.257C0.457,-0.27 0.434,-0.28 0.407,-0.289C0.381,-0.297 0.351,-0.304 0.319,-0.31C0.296,-0.314 0.277,-0.319 0.262,-0.323C0.246,-0.328 0.235,-0.333 0.226,-0.339C0.217,-0.345 0.211,-0.352 0.207,-0.359C0.204,-0.366 0.202,-0.374 0.202,-0.383C0.202,-0.392 0.204,-0.4 0.208,-0.408C0.212,-0.416 0.219,-0.423 0.227,-0.429C0.235,-0.436 0.246,-0.441 0.259,-0.444C0.273,-0.448 0.288,-0.45 0.306,-0.45C0.325,-0.45 0.342,-0.447 0.356,-0.442C0.37,-0.437 0.382,-0.431 0.391,-0.423C0.399,-0.415 0.405,-0.407 0.409,-0.398C0.413,-0.389 0.415,-0.38 0.415,-0.37L0.532,-0.37C0.532,-0.394 0.527,-0.416 0.516,-0.436C0.506,-0.457 0.491,-0.475 0.472,-0.49C0.452,-0.505 0.428,-0.517 0.4,-0.525C0.372,-0.534 0.341,-0.538 0.306,-0.538C0.273,-0.538 0.243,-0.534 0.216,-0.525C0.189,-0.517 0.166,-0.505 0.147,-0.491C0.128,-0.476 0.114,-0.459 0.103,-0.44C0.093,-0.42 0.088,-0.4 0.088,-0.378C0.088,-0.356 0.093,-0.336 0.103,-0.32C0.113,-0.303 0.127,-0.288 0.145,-0.275C0.163,-0.262 0.185,-0.251 0.21,-0.242C0.235,-0.233 0.263,-0.226 0.294,-0.219C0.319,-0.215 0.339,-0.21 0.355,-0.205C0.371,-0.199 0.384,-0.194 0.394,-0.188C0.404,-0.182 0.411,-0.175 0.415,-0.168C0.419,-0.16 0.421,-0.152 0.421,-0.143Z" style="fill:white;fill-rule:nonzero;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(1.24,0,0,1,-2681.966735,0)">
+                            <ns0:g transform="matrix(175,0,0,175,11174.861396,3372.589947)">
+                                <ns0:path d="M0.12,-0L0.219,-0L0.285,-0.3L0.297,-0.365L0.309,-0.3L0.378,-0L0.477,-0L0.579,-0.528L0.473,-0.528L0.426,-0.206L0.416,-0.142L0.405,-0.206L0.337,-0.528L0.26,-0.528L0.191,-0.205L0.18,-0.144L0.172,-0.205L0.123,-0.528L0.017,-0.528L0.12,-0Z" style="fill:white;fill-rule:nonzero;" />
+                            </ns0:g>
+                        </ns0:g>
+                        <ns0:g transform="matrix(175,0,0,175,11300.742587,3372.589947)">
+                            <ns0:path d="M0.322,0.01C0.374,0.01 0.417,-0 0.454,-0.021C0.49,-0.041 0.517,-0.064 0.535,-0.089L0.472,-0.149C0.456,-0.129 0.435,-0.113 0.41,-0.101C0.385,-0.09 0.358,-0.084 0.329,-0.084C0.308,-0.084 0.289,-0.088 0.271,-0.095C0.253,-0.102 0.238,-0.112 0.224,-0.125C0.212,-0.138 0.201,-0.152 0.194,-0.167C0.186,-0.183 0.181,-0.202 0.177,-0.226L0.177,-0.228L0.544,-0.228L0.544,-0.278C0.544,-0.316 0.539,-0.351 0.528,-0.383C0.518,-0.415 0.503,-0.442 0.483,-0.465C0.463,-0.488 0.439,-0.506 0.41,-0.519C0.38,-0.532 0.347,-0.538 0.309,-0.538C0.275,-0.538 0.242,-0.532 0.212,-0.519C0.182,-0.506 0.156,-0.487 0.133,-0.464C0.11,-0.44 0.092,-0.411 0.079,-0.378C0.066,-0.344 0.059,-0.307 0.059,-0.266L0.059,-0.246C0.059,-0.21 0.066,-0.176 0.078,-0.145C0.091,-0.114 0.109,-0.087 0.132,-0.064C0.155,-0.041 0.183,-0.023 0.215,-0.01C0.247,0.003 0.283,0.01 0.322,0.01ZM0.308,-0.443C0.328,-0.443 0.345,-0.44 0.36,-0.433C0.374,-0.427 0.387,-0.418 0.397,-0.407C0.407,-0.395 0.414,-0.382 0.42,-0.367C0.426,-0.352 0.428,-0.337 0.428,-0.321L0.428,-0.313L0.18,-0.313C0.183,-0.334 0.189,-0.352 0.196,-0.368C0.204,-0.384 0.213,-0.397 0.224,-0.409C0.235,-0.42 0.248,-0.428 0.262,-0.434C0.276,-0.44 0.292,-0.443 0.308,-0.443Z" style="fill:white;fill-rule:nonzero;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(175,0,0,175,11405.759677,3372.589947)">
+                            <ns0:path d="M0.322,0.01C0.374,0.01 0.417,-0 0.454,-0.021C0.49,-0.041 0.517,-0.064 0.535,-0.089L0.472,-0.149C0.456,-0.129 0.435,-0.113 0.41,-0.101C0.385,-0.09 0.358,-0.084 0.329,-0.084C0.308,-0.084 0.289,-0.088 0.271,-0.095C0.253,-0.102 0.238,-0.112 0.224,-0.125C0.212,-0.138 0.201,-0.152 0.194,-0.167C0.186,-0.183 0.181,-0.202 0.177,-0.226L0.177,-0.228L0.544,-0.228L0.544,-0.278C0.544,-0.316 0.539,-0.351 0.528,-0.383C0.518,-0.415 0.503,-0.442 0.483,-0.465C0.463,-0.488 0.439,-0.506 0.41,-0.519C0.38,-0.532 0.347,-0.538 0.309,-0.538C0.275,-0.538 0.242,-0.532 0.212,-0.519C0.182,-0.506 0.156,-0.487 0.133,-0.464C0.11,-0.44 0.092,-0.411 0.079,-0.378C0.066,-0.344 0.059,-0.307 0.059,-0.266L0.059,-0.246C0.059,-0.21 0.066,-0.176 0.078,-0.145C0.091,-0.114 0.109,-0.087 0.132,-0.064C0.155,-0.041 0.183,-0.023 0.215,-0.01C0.247,0.003 0.283,0.01 0.322,0.01ZM0.308,-0.443C0.328,-0.443 0.345,-0.44 0.36,-0.433C0.374,-0.427 0.387,-0.418 0.397,-0.407C0.407,-0.395 0.414,-0.382 0.42,-0.367C0.426,-0.352 0.428,-0.337 0.428,-0.321L0.428,-0.313L0.18,-0.313C0.183,-0.334 0.189,-0.352 0.196,-0.368C0.204,-0.384 0.213,-0.397 0.224,-0.409C0.235,-0.42 0.248,-0.428 0.262,-0.434C0.276,-0.44 0.292,-0.443 0.308,-0.443Z" style="fill:white;fill-rule:nonzero;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(175,0,0,175,11500.276767,3372.589947)">
+                            <ns0:path d="M0.31,-0.657L0.193,-0.657L0.193,-0.528L0.065,-0.528L0.065,-0.441L0.193,-0.441L0.193,-0.181C0.193,-0.147 0.197,-0.118 0.206,-0.094C0.215,-0.07 0.228,-0.05 0.244,-0.035C0.26,-0.019 0.279,-0.008 0.301,-0.001C0.323,0.006 0.348,0.01 0.374,0.01C0.389,0.01 0.404,0.009 0.419,0.008C0.434,0.007 0.448,0.005 0.461,0.002C0.475,-0.001 0.488,-0.004 0.5,-0.007C0.512,-0.011 0.522,-0.016 0.53,-0.021L0.518,-0.102C0.512,-0.1 0.504,-0.099 0.496,-0.097C0.487,-0.095 0.478,-0.094 0.468,-0.092C0.458,-0.091 0.448,-0.089 0.437,-0.088C0.426,-0.087 0.416,-0.087 0.406,-0.087C0.392,-0.087 0.379,-0.088 0.367,-0.092C0.356,-0.095 0.345,-0.1 0.337,-0.108C0.328,-0.116 0.322,-0.126 0.317,-0.139C0.312,-0.153 0.31,-0.169 0.31,-0.189L0.31,-0.441L0.509,-0.441L0.509,-0.528L0.31,-0.528L0.31,-0.657Z" style="fill:white;fill-rule:nonzero;" />
+                        </ns0:g>
+                        <ns0:g transform="matrix(175,0,0,175,11605.293857,3372.589947)">
+                        </ns0:g>
+                    </ns0:g>
+                    <ns0:g transform="matrix(1,0,0,1,-9097.004144,297.600699)">
+                        <ns0:g transform="matrix(108.333333,0,0,108.333333,11475.15941,3372.589947)">
+                        </ns0:g>
+                        <ns0:text x="11215.117px" y="3372.59px" style="font-family:'RobotoMono-Regular', 'Roboto Mono', monospace;font-size:108.333px;fill:white;">tech</ns0:text>
+                    </ns0:g>
+                </ns0:g>
+            </ns0:g>
+        </ns0:g>
+    </ns0:g>
+</ns0:svg><text x="50" y="150" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#a8c4fa">SOFTWARE FOR THE ENTIRE LENDING JOURNEY</text><text x="48" y="223" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" fill="#fbfbf9">Your expertise.</text><text x="48" y="292" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" fill="#a8c4fa">More possibilities.</text><text x="50" y="345" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#fbfbf9">Connected experiences for lenders,</text><text x="50" y="380" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#fbfbf9">borrowers and the teams behind them.</text><path d="M820 190 H1060 V345 H820 Z" fill="none" stroke="#3d7df2" stroke-width="2"/><path d="M940 190 V345 M820 267 H1060" stroke="#3d7df2" stroke-width="2"/><rect x="764" y="168" width="112" height="44" rx="22" fill="#24316b" stroke="#a8c4fa"/><text x="781" y="196" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#fbfbf9">APPLY</text><rect x="1004" y="168" width="112" height="44" rx="22" fill="#24316b" stroke="#a8c4fa"/><text x="1021" y="196" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#fbfbf9">REVIEW</text><rect x="764" y="323" width="112" height="44" rx="22" fill="#24316b" stroke="#a8c4fa"/><text x="781" y="351" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#fbfbf9">SIGN</text><rect x="1004" y="323" width="112" height="44" rx="22" fill="#24316b" stroke="#a8c4fa"/><text x="1021" y="351" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#fbfbf9">SERVICE</text><circle cx="940" cy="267" r="47" fill="#3d7df2"/><text x="901" y="274" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#fff">SweetOS</text><path d="M48 430 H1152" stroke="#34416b"/><text x="50" y="465" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#a8c4fa">SWEETTECH</text><text x="820" y="465" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#a8c4fa">LENDING  /  AI  /  PLATFORM</text></svg>

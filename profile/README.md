@@ -1,36 +1,95 @@
-# SweetTech
+<a href="https://sweettech.ai/">
+  <img src="https://raw.githubusercontent.com/SweetTech-AI/.github/main/profile/assets/sweettech-hero.svg" width="1200" alt="SweetTech — Your expertise. More possibilities. Connected experiences for lenders, borrowers and the teams behind them." />
+</a>
 
-### Commercial lending software built around how lenders work.
+<p align="center">
+  <a href="https://sweettech.ai/"><strong>Explore SweetTech</strong></a> &nbsp; · &nbsp;
+  <a href="https://sweettech.ai/company/team/">Meet the team</a> &nbsp; · &nbsp;
+  <a href="https://sweettech.ai/careers/">Build with us</a> &nbsp; · &nbsp;
+  <a href="https://cloudburrow.com/">Open source</a>
+</p>
 
-SweetTech builds software for lending institutions—from borrower applications and document collection to origination, servicing and capital markets. We help teams bring their workflows together and deliver experiences under their own brand, alongside the core banking, loan origination and CRM systems they already use.
+## Lending expertise, connected by software.
 
-Our approach to AI is practical: read documents, extract and validate information, and flag gaps and inconsistencies. **Credit judgment stays with the lender.**
+SweetTech builds commercial lending software for the institutions that move capital and the people they serve. We bring applications, document collection, origination, servicing and capital markets into connected workflows—with borrower experiences under the lender’s own brand.
 
-[Explore SweetTech](https://sweettech.ai/) · [Meet the team](https://sweettech.ai/company/team/)
+Our software works alongside the core banking, loan origination and CRM systems lenders already use. The goal is practical: less time chasing information, clearer handoffs and more time for the decisions that need a person.
 
-## Our platform and products
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**SweetOS** is the shared software platform behind our financial products. It lets our teams build on reusable capabilities and integrations while giving each product its own experience.
+### For borrowers
 
-Our product work spans:
+Digital applications, document collection and ongoing access to their lending relationship—on the devices they already use.
 
-| Product | Focus |
-| --- | --- |
-| **SweetCore** | Commercial lending and servicing workflows connecting borrowers and operational teams. |
-| **Sweet Servicing** | Loan servicing and ongoing borrower workflows. |
-| **SweetSign** | Electronic signatures and agreement workflows, from document preparation through signing and completion records. |
-| **Sweet Credit** | Digital lending experiences for borrowers and lender teams. |
-| **Sweet Ag Loans** | Lending experiences built around agricultural borrowers and their financing needs. |
-| **SweetLogic** | A decision intelligence platform under development, combining policies, rules, testing and human review. |
+</td>
+<td width="33%" valign="top">
 
-For product information, availability and demonstrations, visit [sweettech.ai](https://sweettech.ai/).
+### For lending teams
 
-## Open source
+Organized information and connected operational workflows, from the first application through servicing and renewals.
 
-**[CloudBurrow](https://cloudburrow.com/)** brings supported Google Cloud APIs into local development and continuous integration environments. Built on Kubernetes, it helps developers test applications with official Google client libraries. Compatibility is documented and tested per operation.
+</td>
+<td width="33%" valign="top">
 
-## Connect with us
+### For institutions
 
-Learn about our work, meet the people building it, or explore opportunities to join the team:
+Branded experiences and integrations that fit existing systems, with credit judgment remaining in the hands of the lender.
 
-[Company website](https://sweettech.ai/) · [Our team](https://sweettech.ai/company/team/) · [Careers](https://sweettech.ai/careers/)
+</td>
+</tr>
+</table>
+
+## SweetOS: the foundation behind the products.
+
+<img src="https://raw.githubusercontent.com/SweetTech-AI/.github/main/profile/assets/sweetos-platform.svg" width="1200" alt="SweetCore, Sweet Credit, Sweet Ag Loans, Sweet Servicing, SweetSign and SweetLogic share the SweetOS foundation: identity, workflows, integrations and reusable capabilities. SweetLogic is under development." />
+
+**SweetOS** is our shared platform for building financial products. Common capabilities give our teams a foundation to build on, while each product has its own purpose, experience and workflows.
+
+| Product | What we’re building around |
+| :--- | :--- |
+| **SweetCore** | Commercial lending operations, connecting borrower experiences with the teams managing the lending process. |
+| **Sweet Credit** | Digital lending experiences spanning borrower applications and lender workspaces. |
+| **Sweet Ag Loans** | Agricultural lending experiences shaped around farmers and their financing needs. |
+| **Sweet Servicing** | Ongoing loan administration and borrower workflows beyond origination. |
+| **SweetSign** | Electronic signatures and agreement workflows: preparing documents, coordinating signing and maintaining completion records. |
+| **SweetLogic** | Decision intelligence combining business policies, rules, testing and human review. **Under development.** |
+
+Product scope and availability vary. [Explore SweetTech](https://sweettech.ai/) for demonstrations and current product information.
+
+## AI that supports judgment.
+
+We use AI to read documents, extract information, check completeness and flag inconsistencies. It helps teams understand what is in a file and what still needs attention.
+
+**People retain the credit decision.** Our approach keeps review and accountability central to the workflow.
+
+## Engineering beyond the application.
+
+We care about the foundations that make useful software possible: reusable capabilities, understandable interfaces and tools that help developers test what they build.
+
+That work extends beyond our commercial products into open source.
+
+<a href="https://cloudburrow.com/">
+  <img src="https://raw.githubusercontent.com/SweetTech-AI/.github/main/profile/assets/cloudburrow.svg" width="1200" alt="CloudBurrow — Google Cloud APIs for local development. Build locally, test in CI and check compatibility by operation." />
+</a>
+
+**CloudBurrow** is an open-source local Google Cloud emulator built on Kubernetes. It helps developers work with supported Google Cloud APIs through official client libraries, on their own machines and in continuous integration.
+
+- **Develop locally:** start a dedicated local cluster and connect an application through local endpoints.
+- **Test in CI:** give integration tests an isolated environment.
+- **Know the boundaries:** inspect compatibility and evidence for individual operations.
+
+[Explore CloudBurrow →](https://cloudburrow.com/)
+
+## Build something that matters.
+
+Financial software sits between complex operations and real people. We’re interested in engineers, product thinkers and designers who enjoy making that relationship simpler.
+
+Explore our people and open roles, or visit the company website to discuss your institution’s workflows.
+
+<p align="center">
+  <a href="https://sweettech.ai/careers/"><strong>Explore careers →</strong></a> &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://sweettech.ai/company/team/"><strong>Meet SweetTech →</strong></a> &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://sweettech.ai/"><strong>Visit our website →</strong></a>
+</p>
