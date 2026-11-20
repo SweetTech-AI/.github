@@ -43,11 +43,11 @@ Branded experiences and integrations that fit existing systems, with credit judg
 
 ## SweetOS: the foundation behind the products.
 
-<img src="https://raw.githubusercontent.com/SweetTech-AI/.github/main/profile/assets/sweetos-platform.svg?v=2" width="1200" alt="SweetCore, SweetSign, SweetLogic, SweetBank, SweetPay and SweetVerify share the SweetOS foundation: identity, workflows, integrations and reusable capabilities. SweetLogic is under development." />
+<img src="https://raw.githubusercontent.com/SweetTech-AI/.github/main/profile/assets/sweetos-platform.svg?v=3" width="1200" alt="SweetCore, SweetSign, SweetLogic, SweetLedger, SweetPay and SweetVerify share the SweetOS foundation: identity, workflows, integrations and reusable capabilities. SweetLogic is under development." />
 
 **SweetOS** is our shared platform for building financial products. Common capabilities give our teams a foundation to build on, while each product has its own purpose, experience and workflows.
 
-Our product family is **SweetCore, SweetSign, SweetLogic, SweetBank, SweetPay and SweetVerify**.
+Our product family is **SweetCore, SweetSign, SweetLogic, SweetLedger, SweetPay and SweetVerify**.
 
 **SweetCore includes servicing** as part of the commercial lending lifecycle, connecting borrower experiences with the teams managing origination and ongoing loan operations. **SweetSign** supports electronic signatures and agreement workflows. **SweetLogic**, under development, brings together business policies, rules, testing and human review.
 
